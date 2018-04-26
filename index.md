@@ -20,5 +20,5 @@ Syntax highlighted code block
 
 **Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
+[Link](url) and ![test](https://2.bp.blogspot.com/-bP_k0Cajhy8/Vt2IHf6J2wI/AAAAAAAACT4/n1Z0mzRmM8A/s1600/tumblr_nks609KxYk1unlgoso1_400.png)
 ```
